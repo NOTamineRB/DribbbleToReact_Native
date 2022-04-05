@@ -1,6 +1,6 @@
 # dribbble2react
 
-We're transforming [Dribbble](https://dribbble.com/) designs to React / React-Native code
+This Repository is about  transforming [Dribbble](https://dribbble.com/) designs to React / React-Native code
 
 | Project                                                                                                                            | Expo                                                                       |                                                                 Preview                                                                  | Screens | Estimation |             Status              |
 | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------: | :-----: | :--------: | :-----------------------------: |
@@ -13,8 +13,6 @@ We're transforming [Dribbble](https://dribbble.com/) designs to React / React-Na
 | [Driving AI assistant](https://dribbble.com/shots/4560198-Driving-AI-assistant/attachments/1031428)                                | [View Snack](https://snack.expo.io/@react-ui-kit/driving-ai-assistant)     |           <img src="https://cdn.dribbble.com/users/389060/screenshots/4560198/attachments/1031428/expanded.png" width="120" />           |    5    | ~15 hours  |       :white_check_mark:        |
 | [Plant App](https://dribbble.com/shots/4569970-Plant-Freebie-2-Dribbble-Invites/attachments/1033490)                               | [View Snack](https://snack.expo.io/@react-ui-kit/plant-app)                |             <img src="https://cdn.dribbble.com/users/1002086/screenshots/4569970/attachments/1033490/hd.png" width="120" />              |    6    | ~20 hours  |       :white_check_mark:        |
 | [VPN App](https://project365.design/2018/10/05/day-278-vpn-mobile-app-ui-kit-sketch-freebie/)                                      | [View Snack](https://expo.io/snacks/@react-ui-kit)                         |                    <img src="https://project365.design/wp-content/uploads/2018/10/05102018-design.png" width="120" />                    |    2    |  ~2 hours  |       :white_check_mark:        |
-| [Your app](https://github.com/react-ui-kit/dribbble2react/issues/new?assignees=&labels=&template=feature_request.md&title=)        | -                                                                          |                                                               Your design                                                                |    -    |  ~ hours   | :point_left::hammer_and_wrench: |
 
-## Contributors
 
-<a href="https://opencollective.com/dribbble2react"><img src="https://opencollective.com/dribbble2react/individuals.svg?width=890"></a>
+
